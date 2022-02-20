@@ -1,0 +1,25 @@
+
+body {
+background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/04/Download-desktop-backgrounds-HD.jpg") ;
+background-size: cover;
+background-position: absolute;
+background-repeat: none;
+background-color: #fae6bb;
+}
+
+h1{
+    font-size: 7em;
+    
+}
+.hulk{
+    color:green;
+    font-weight: 600;
+}
+.thor{
+    color:yellow;
+    font-weight: 400;
+}
+.ironman{
+    color:red;
+    
+}
